@@ -2,7 +2,7 @@
 
 - how to deal with loops on objects and pushing it into a new array.
 
-The following snippet shows how to created or push a new key value into an object
+The following snippet shows how to create or push a new key value into an object
 ```
 let obj = {}
 obj['firstName'] = 'Juan'
